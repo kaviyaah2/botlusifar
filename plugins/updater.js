@@ -3,7 +3,7 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 kaviyaah - kavishka sandaruwan (v 8.0.0 avalable)
 */
-
+/*
 const simpleGit = require('simple-git');
 const git = simpleGit();
 const lusifar = require('../events');
@@ -97,3 +97,4 @@ lusifar.addCommand({pattern: 'update now$', fromMe: true,dontAddCommandList: tru
         }
     }
 }));
+*/
